@@ -60,6 +60,7 @@ By synthesizing these indicators, the system aims to offer robust, dynamic trade
 ### 1. Indicators and Calculations
 
 In this model, a variety of technical indicators are calculated to capture trends, volatility, momentum, and potential support or resistance levels in the market. Here's how each is calculated and why they're interconnected:
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXer01sNaiPG8QYd20CPrsl2g9rz5n1isWswUbT46vSJ4QOSi2UgTNGu27xQKMmzwwcZjtiPqJhyFiFVElW23c7SbiYLx_VeJaTkeZAaxKGB6Ykr3v6sDybgXRWC8l95N2sodPCk6w?key=JvGA1He_xR85Qsh7jTfJn-2v)
 
 - Simple Moving Average (SMA): SMA calculates the average closing price over a chosen period, smoothing out daily price fluctuations and giving a clearer picture of the trend. A rising SMA suggests an uptrend, while a falling SMA suggests a downtrend. SMA serves as a baseline, and other indicators (like EMA and MACD) are compared against it to confirm trends.
 
@@ -74,9 +75,10 @@ In this model, a variety of technical indicators are calculated to capture trend
 - Average True Range (ATR): ATR captures the average range of price movement over a given period, offering a view of market volatility. ATR is helpful in conjunction with Bollinger Bands, as both highlight volatility, and it also influences risk management by setting stop-loss levels based on the range of price movement.
 
 - Fibonacci Levels: Based on historical highs and lows, Fibonacci levels suggest support and resistance points where price retracement might occur. The levels (e.g., 23.6%, 38.2%, 50%, 61.8%) are derived from natural ratios and frequently mark areas where price reversals take place, which can be pivotal in setting entry/exit points.
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjGEs9fN5TBnhAPGs74MgYMCu-bG9PzLjHwh-GMCT4E-duF-1N9A5j_VYayB7Wrcczo7EqvamnE9zLwdZ6Aecs8NQe39k5sesQxd5lUvjZixA-gOh9BB1cGAuPSSOwjDY9BtReZw?key=JvGA1He_xR85Qsh7jTfJn-2v)
 
 - Elliott Waves: This theory posits that markets move in repeating patterns or waves, based on investor psychology. By detecting impulse and corrective waves (such as 5-wave uptrends followed by 3-wave corrections), Elliott Waves help identify market phases and likely points of trend continuation or reversal.
-
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjc75OXIEAopRFR4eQaNAA3XBQJTx7ScMvc3ovxwk8w5FKpgtgAdHfotuRHHBXzMNStoPxMXa3H4TMTlOirbI3k8OihnkLZKGx7ZCEbTT4VLk_v_cnunZhK2DjAT0WRneHQne3ow?key=JvGA1He_xR85Qsh7jTfJn-2v)
 These indicators are interconnected, providing a layered view of market conditions. For example, a high RSI combined with a MACD crossover and price close to an upper Bollinger Band signals potential overbought conditions, leading to a short trade.
 
 
@@ -112,6 +114,7 @@ Backpropagation and Optimization: Using backpropagation, the model iteratively a
 - Weight Update: Each weight is adjusted to minimize the error, refining the model’s accuracy.
 
 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfElwjcixHI5UCVMWvwySuoTvVC61uu43D-yaSP7zdePBG42YiQVz9qkGvsGypN7fziKqczA8211gw9px0Q037a6_qIt0Te3qZMSgr0iAEV9xQe7CGDToLbpragDNDW9BRG0W76Gw?key=JvGA1He_xR85Qsh7jTfJn-2v)
 
 
 #### Generating Predictions: 
@@ -174,6 +177,8 @@ The model generates trade suggestions based on calculated indicators and detecte
 
 - Bollinger Bands & ATR for Volatility Assessment: The model uses Bollinger Bands to assess potential breakout points. If the price approaches the upper or lower Bollinger Band, it suggests that the market may be reaching an overbought or oversold condition. Additionally, the Average True Range (ATR) is used to estimate market volatility, helping the model determine safe entry points and stop-loss levels.
 
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2Ge7C4dRjTBvPJmSj9xjn1vlYozUbmUm4Bg_Pif2eeRx-JuEjraUWAyNupzpT5O4IoEoakRQ80gO3VOIjuItM0lpm_8JxTFG8juvgwuIMtbBPg-boim7SZJfVCLmNOY2JdEQG?key=JvGA1He_xR85Qsh7jTfJn-2v)
 
 ####  Fibonacci Levels & Elliott Waves for Context:
 
