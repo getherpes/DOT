@@ -2,10 +2,8 @@
 
 Distribution of Trades
 
-\
-\
-\
-\
+
+
 
 
 
@@ -19,18 +17,14 @@ Advanced tools like **Fibonacci retracement levels** and **Elliott Wave theory**
 
 By synthesizing these indicators, the system aims to offer robust, dynamic trade strategies that take into account both market volatility and price patterns. This approach enables optimal risk management and a higher likelihood of profitable trades, making it a valuable tool for cryptocurrency traders looking for reliable, data-backed predictions and real-time trade insights.
 
-\
-\
-\
-\
-\
-\
-\
 
 
-[**Abstract ****1**](#abstract)
 
-[**1. Indicators and Calculations ****3**](#1-indicators-and-calculations)
+
+
+[**Abstract**](#abstract)
+
+[**1. Indicators and Calculations**](#1-indicators-and-calculations)
 
 [**2. Model Training and Prediction ****4**](#2-model-training-and-prediction)
 
