@@ -26,7 +26,7 @@ By synthesizing these indicators, the system aims to offer robust, dynamic trade
 
 [**1. Indicators and Calculations**](#1-indicators-and-calculations)
 
-[**2. Model Training and Prediction **](#2-model-training-and-prediction)
+[**2. Model Training and Prediction**](#2-model-training-and-prediction)
 
 [Neural Network Architecture](#neural-network-architecture)
 
@@ -34,7 +34,7 @@ By synthesizing these indicators, the system aims to offer robust, dynamic trade
 
 [Trade Decisions](#trade-decisions)
 
-[**3.Trade Generation and Financial Details **](#3trade-generation-and-financial-details)
+[**3.Trade Generation and Financial Details**](#3trade-generation-and-financial-details)
 
 [Example of a Trade Decision](#example-of-a-trade-decision)
 
